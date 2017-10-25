@@ -1,0 +1,2 @@
+{Person [name=A, age=22, gender=MALE]=[Pet [type=cat name=markiza, age=4, gender=FEMALE]], Person [name=B, age=23, gender=FEMALE]=[Pet [type=dao name=re, age=4, gender=MALE]]}
+ 

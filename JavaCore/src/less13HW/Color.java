@@ -1,0 +1,6 @@
+package less13HW;
+
+public enum Color {
+
+	WHITE, BLACK, BLUE, GREEN, RED, YELLOW, ORANGE, SILVER, GOLD, CHERRY, BURGUNDY, BROWN
+}
